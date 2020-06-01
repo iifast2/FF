@@ -24,6 +24,13 @@ https://hackingblogs.com/phishing-page/
 
 
 
+idk : 
+*  https://github.com/KCHTZ06/PFFv1
+
+*  https://github.com/APACHR/phising-free-fire
+
+
+
 
 
 
